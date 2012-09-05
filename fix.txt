@@ -1,4 +1,3 @@
 this is our bug fix
 
-git stash
-fix this terrible bug
+fix that terrible bug
