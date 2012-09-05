@@ -5,5 +5,4 @@ The only reason this project exists is to give
 the fine viewers a means to learning the Git commands. 
 
 git alias command
-
 All Rights Reserved. Aug 2012
